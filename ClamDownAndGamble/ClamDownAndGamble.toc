@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Clam Down and Gamble
+## Notes: Clam-only party/raid roll games with readiness, tie-breaks, and a winner board.
+## Author: OpenAI
+## Version: 0.1.0
+## SavedVariables: ClamDownAndGambleDB
+Core.lua
